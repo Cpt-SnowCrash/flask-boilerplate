@@ -1,6 +1,7 @@
 flask
-flask-script
-WTForms
+flask-wtf
+flask-login
+flask-oauth
+mock
 mongoengine
-flask_mongoengine
 gunicorn
