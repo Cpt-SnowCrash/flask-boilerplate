@@ -1,17 +1,5 @@
-# ----------------------
-# Flask
-# ----------------------
 flask
-
-
-# ----------------------
-# Testing
-# ----------------------
-mock
-
-
-# ----------------------
-# Production Server
-# ----------------------
-
-gunicorn
+flask-script
+WTForms
+mongoengine
+flask_mongoengine
